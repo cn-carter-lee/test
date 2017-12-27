@@ -1,0 +1,17 @@
+{
+  "name": "cn-carter-lee/test",
+  "description": "just for test",
+  "authors": [
+    {
+      "name": "carter",
+      "email": "haizhixing126@gmail.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Ford\\Escape\\": "src/Ford/Escape",
+      "Ford\\Fiesta\\": "src/Ford/Fiesta"
+    }
+  }
+}
